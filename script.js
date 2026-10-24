@@ -72,8 +72,7 @@ document.getElementById("currentYear").textContent =
 const contactForm = document.getElementById("contactForm");
 const formMessage = document.getElementById("formMessage");
 
-// Replace with your real email before publishing
-const portfolioEmail = "your-email@example.com";
+const portfolioEmail = "25bit063@kgcas.com";
 
 contactForm.addEventListener("submit", event => {
     event.preventDefault();
